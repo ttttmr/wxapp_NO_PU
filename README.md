@@ -29,7 +29,7 @@ python3示例代码
 ```python
 import qrcode,time
 url='xyhui://user/'
-puid=input('puid')
+puid=input('puid:')
 t=str(int(time.time()))
 img = qrcode.make(url+str(puid)+'/'+t)
 img.save("pu.png")
