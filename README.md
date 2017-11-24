@@ -27,7 +27,7 @@ UI设计和JavaScript生成二维码参考
 python3示例代码
 
 ```python
-import qrcode,time,os
+import qrcode,time
 url='xyhui://user/'
 puid=input('puid')
 t=str(int(time.time()))
