@@ -52,3 +52,9 @@
   height: 100%;
   opacity: 0;
 }
+
+.tip {
+  width: 200px;
+  margin: 60rpx auto;
+  font-size: 70%  
+}

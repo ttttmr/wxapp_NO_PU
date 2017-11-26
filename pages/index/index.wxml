@@ -7,13 +7,13 @@
   </view>
   <form bindsubmit="formSubmit">
     <view class="input-row">
-      <label>puid</label>
+      <label>PuId</label>
       <input name='url' value='' type="text" maxlength="10" placeholder="{{placeholder}}" />
     </view>
     <button formType="submit" class="mybtn" type="primary">生成二维码</button>
   </form>
+  <view class="tip"> Tip: 请在PU端扫描签到，微信扫描无效</view>
 </view>
 <view hidden="{{maskHidden}}" class="mask"></view>
-<view class="canvas-box">
-
+<view class="csanvas-box">
 </view>
