@@ -54,7 +54,6 @@
 }
 
 .tip {
-  width: 200px;
-  margin: 60rpx auto;
+  text-align:center;
   font-size: 70%  
 }
