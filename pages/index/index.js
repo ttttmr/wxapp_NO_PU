@@ -4,7 +4,7 @@ Page({
   data: {
     maskHidden: true,
     imagePath: '',
-    placeholder: '1234567'
+    placeholder: '如：1234567'
   },
   onLoad: function (options) {
     // 页面初始化 options为页面跳转所带来的参数

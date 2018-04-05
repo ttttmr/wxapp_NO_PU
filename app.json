@@ -6,7 +6,7 @@
   "window":{
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "PU码生成器",
+    "navigationBarTitleText": "签到码生成器",
     "navigationBarTextStyle":"black"
   }
 }
